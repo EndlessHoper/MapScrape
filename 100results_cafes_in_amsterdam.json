@@ -1,0 +1,672 @@
+[
+  {
+    "name": "Café de Jaren",
+    "rating": "4.2",
+    "address": "\nNieuwe Doelenstraat 20-20, 1012 CP Amsterdam",
+    "website": "https://cafedejaren.nl/",
+    "phone": "\n020 625 5771"
+  },
+  {
+    "name": "Café Hill Street Blues",
+    "rating": "4.6",
+    "address": "\nWarmoesstraat 52A, 1012 JG Amsterdam",
+    "website": "https://www.hillstreetblues.com/",
+    "phone": "\n020 638 7922"
+  },
+  {
+    "name": "Café Hill Street Blues",
+    "rating": "4.6",
+    "address": "\nWarmoesstraat 52A, 1012 JG Amsterdam",
+    "website": "https://www.hillstreetblues.com/",
+    "phone": "\n020 638 7922"
+  },
+  {
+    "name": "Café Mankind",
+    "rating": "4.7",
+    "address": "\nWeteringstraat 60, 1017 SP Amsterdam",
+    "website": "http://www.mankind.nl/",
+    "phone": "\n020 638 4755"
+  },
+  {
+    "name": "Café Mankind",
+    "rating": "4.7",
+    "address": "\nWeteringstraat 60, 1017 SP Amsterdam",
+    "website": "http://www.mankind.nl/",
+    "phone": "\n020 638 4755"
+  },
+  {
+    "name": "Dickys Grand Café",
+    "rating": "4.0",
+    "address": "\nGustav Mahlerplein 110, 1082 MA Amsterdam",
+    "website": "http://www.dickys-grandcafe.nl/",
+    "phone": "\n06 25338504"
+  },
+  {
+    "name": "Dickys Grand Café",
+    "rating": "4.0",
+    "address": "\nGustav Mahlerplein 110, 1082 MA Amsterdam",
+    "website": "http://www.dickys-grandcafe.nl/",
+    "phone": "\n06 25338504"
+  },
+  {
+    "name": "De Koffieschenkerij",
+    "rating": "4.7",
+    "address": "\nOudekerksplein 27, 1012 GX Amsterdam",
+    "website": "http://www.koffieschenkerij.com/",
+    "phone": "\n06 52653302"
+  },
+  {
+    "name": "De Koffieschenkerij",
+    "rating": "4.7",
+    "address": "\nOudekerksplein 27, 1012 GX Amsterdam",
+    "website": "http://www.koffieschenkerij.com/",
+    "phone": "\n06 52653302"
+  },
+  {
+    "name": "Cafe De Pels",
+    "rating": "4.5",
+    "address": "\nHuidenstraat 25, 1016 ER Amsterdam",
+    "website": "http://cafedepels.nl/",
+    "phone": "\n020 622 9037"
+  },
+  {
+    "name": "Cafe De Pels",
+    "rating": "4.5",
+    "address": "\nHuidenstraat 25, 1016 ER Amsterdam",
+    "website": "http://cafedepels.nl/",
+    "phone": "\n020 622 9037"
+  },
+  {
+    "name": "Café-Restaurant Amsterdam",
+    "rating": "4.2",
+    "address": "\nWatertorenplein 6, 1051 PA Amsterdam",
+    "website": "https://cradam.nl/",
+    "phone": "\n020 682 2666"
+  },
+  {
+    "name": "Café-Restaurant Amsterdam",
+    "rating": "4.2",
+    "address": "\nWatertorenplein 6, 1051 PA Amsterdam",
+    "website": "https://cradam.nl/",
+    "phone": "\n020 682 2666"
+  },
+  {
+    "name": "Café het Paleis",
+    "rating": "4.2",
+    "address": "\nPaleisstraat 16, 1012 RB Amsterdam",
+    "website": "http://www.cafehetpaleis.nl/",
+    "phone": "\n020 626 0600"
+  },
+  {
+    "name": "Coffeeshopamsterdam Café",
+    "rating": "4.6",
+    "address": "\nSingel 8, 1013 GA Amsterdam",
+    "website": "https://coffeeshopamsterdamcafe.com/",
+    "phone": "\n020 778 4387"
+  },
+  {
+    "name": "Kafenion Amsterdam",
+    "rating": "4.9",
+    "address": "\nBloemgracht 49, 1016 KD Amsterdam"
+  },
+  {
+    "name": "Kafenion Amsterdam",
+    "rating": "4.9",
+    "address": "\nBloemgracht 49, 1016 KD Amsterdam"
+  },
+  {
+    "name": "Barney's Coffeeshop Amsterdam THC Cannabis Dispensary",
+    "rating": "4.6",
+    "address": "\nHaarlemmerstraat 102, 1013 EW Amsterdam",
+    "website": "https://doudlj.org/joinchat/QDvCnA432pd_c8X49qiK6g"
+  },
+  {
+    "name": "Café Brecht",
+    "rating": "4.6",
+    "address": "\nWeteringschans 157, 1017 SE Amsterdam",
+    "website": "http://www.cafebrecht.nl/",
+    "phone": "\n020 627 2211"
+  },
+  {
+    "name": "Café Brecht",
+    "rating": "4.6",
+    "address": "\nWeteringschans 157, 1017 SE Amsterdam",
+    "website": "http://www.cafebrecht.nl/",
+    "phone": "\n020 627 2211"
+  },
+  {
+    "name": "Coffee & Coconuts.",
+    "rating": "4.3",
+    "address": "\nCeintuurbaan 282, 1072 GK Amsterdam",
+    "website": "http://www.ceintuurtheater.nl/",
+    "phone": "\n020 354 1104"
+  },
+  {
+    "name": "Coffeeshop Siberië",
+    "rating": "4.7",
+    "address": "\nBrouwersgracht 11, 1015 GA Amsterdam",
+    "website": "http://www.thecoffeeshops.com/",
+    "phone": "\n020 623 5909"
+  },
+  {
+    "name": "Café de Doffer",
+    "rating": "4.4",
+    "address": "\nRunstraat 14, 1016 GK Amsterdam",
+    "website": "http://www.cafededoffer.nl/",
+    "phone": "\n020 622 6686"
+  },
+  {
+    "name": "Café Van Daele",
+    "rating": "4.3",
+    "address": "\nPaleisstraat 101, 1012 ZL Amsterdam",
+    "website": "https://www.cafevandaele.com/",
+    "phone": "\n020 620 1435"
+  },
+  {
+    "name": "Coffeeshop Bluebird",
+    "rating": "4.5",
+    "address": "\nPlantage Middenlaan 22A, 1018 DE Amsterdam",
+    "website": "http://www.eikenlinde.nl/",
+    "phone": "\n020 622 5716"
+  },
+  {
+    "name": "Cafe Eik en Linde",
+    "rating": "4.6",
+    "address": "\nPlantage Middenlaan 22A, 1018 DE Amsterdam",
+    "website": "http://www.eikenlinde.nl/",
+    "phone": "\n020 622 5716"
+  },
+  {
+    "name": "Cafe Eik en Linde",
+    "rating": "4.6",
+    "address": "\nPlantage Middenlaan 22A, 1018 DE Amsterdam",
+    "website": "http://www.eikenlinde.nl/",
+    "phone": "\n020 622 5716"
+  },
+  {
+    "name": "Cafe Eik en Linde",
+    "rating": "4.6",
+    "address": "\nPlantage Middenlaan 22A, 1018 DE Amsterdam",
+    "website": "http://www.eikenlinde.nl/",
+    "phone": "\n020 622 5716"
+  },
+  {
+    "name": "Cafe Eik en Linde",
+    "rating": "4.6",
+    "address": "\nPrinsengracht 480, 1017 KG Amsterdam"
+  },
+  {
+    "name": "Superskunk Coffeeshop",
+    "rating": "4.4",
+    "address": "\nPrinsengracht 480, 1017 KG Amsterdam"
+  },
+  {
+    "name": "Café De Deugniet",
+    "rating": "4.4",
+    "address": "\nSingel 8, 1013 GA Amsterdam",
+    "website": "https://coffeeshopamsterdamcafe.com/",
+    "phone": "\n020 778 4387"
+  },
+  {
+    "name": "Coffeeshopamsterdam Café",
+    "rating": "4.6",
+    "address": "\nSingel 8, 1013 GA Amsterdam",
+    "website": "https://coffeeshopamsterdamcafe.com/",
+    "phone": "\n020 778 4387"
+  },
+  {
+    "name": "Coffeeshopamsterdam Café",
+    "rating": "4.6",
+    "address": "\nSingel 8, 1013 GA Amsterdam",
+    "website": "https://coffeeshopamsterdamcafe.com/",
+    "phone": "\n020 778 4387"
+  },
+  {
+    "name": "Café Nieuw Amsterdam",
+    "rating": "4.5",
+    "address": "\nHaarlemmerstraat 75, 1013 EL Amsterdam",
+    "website": "http://www.cafenieuwamsterdam.nl/",
+    "phone": "\n020 530 9848"
+  },
+  {
+    "name": "Café Nieuw Amsterdam",
+    "rating": "4.5",
+    "address": "\nHaarlemmerstraat 75, 1013 EL Amsterdam",
+    "website": "http://www.cafenieuwamsterdam.nl/",
+    "phone": "\n020 530 9848"
+  },
+  {
+    "name": "Café Nieuw Amsterdam",
+    "rating": "4.4",
+    "address": "\nStadhouderskade 77, 1072 AE Amsterdam",
+    "website": "http://www.cafeberkhout.nl/",
+    "phone": "\n020 420 9618"
+  },
+  {
+    "name": "Café Berkhout",
+    "rating": "4.4",
+    "address": "\nStadhouderskade 77, 1072 AE Amsterdam",
+    "website": "http://www.cafeberkhout.nl/",
+    "phone": "\n020 420 9618"
+  },
+  {
+    "name": "CREA Café",
+    "rating": "4.4",
+    "address": "\nNieuwe Achtergracht 170, 1018 WV Amsterdam",
+    "website": "http://www.creacafe.nl/",
+    "phone": "\n020 240 4860"
+  },
+  {
+    "name": "CREA Café",
+    "rating": "4.4",
+    "address": "\nNieuwe Achtergracht 170, 1018 WV Amsterdam",
+    "website": "http://www.creacafe.nl/",
+    "phone": "\n020 240 4860"
+  },
+  {
+    "name": "Coffeeshop The Jolly Joker",
+    "rating": "4.3",
+    "address": "\nNieuwmarkt 4-A, 1012 CR Amsterdam",
+    "website": "http://www.jolly-joker-amsterdam.nl/",
+    "phone": "\n020 223 5565"
+  },
+  {
+    "name": "Coffeeshop The Jolly Joker",
+    "rating": "4.3",
+    "address": "\nNieuwmarkt 4-A, 1012 CR Amsterdam",
+    "website": "http://www.jolly-joker-amsterdam.nl/",
+    "phone": "\n020 223 5565"
+  },
+  {
+    "name": "Winkel 43",
+    "rating": "4.5",
+    "address": "\nNoordermarkt 43, 1015 NA Amsterdam",
+    "website": "http://www.winkel43.nl/",
+    "phone": "\n020 623 0223"
+  },
+  {
+    "name": "Winkel 43",
+    "rating": "4.5",
+    "address": "\nNoordermarkt 43, 1015 NA Amsterdam",
+    "website": "http://www.winkel43.nl/",
+    "phone": "\n020 623 0223"
+  },
+  {
+    "name": "Café Bloemers B.V.",
+    "rating": "4.1",
+    "address": "\nHemonystraat 70, 1074 BT Amsterdam",
+    "website": "http://www.cafebloemers.nl/",
+    "phone": "\n020 400 4024"
+  },
+  {
+    "name": "Café Bloemers B.V.",
+    "rating": "4.1",
+    "address": "\nHemonystraat 70, 1074 BT Amsterdam",
+    "website": "http://www.cafebloemers.nl/",
+    "phone": "\n020 400 4024"
+  },
+  {
+    "name": "Stone's Café",
+    "rating": "4.4",
+    "address": "\nWarmoesstraat 91, 1012 HZ Amsterdam",
+    "phone": "\n020 205 1056"
+  },
+  {
+    "name": "Stone's Café",
+    "rating": "4.4",
+    "address": "\nWarmoesstraat 91, 1012 HZ Amsterdam",
+    "phone": "\n020 205 1056"
+  },
+  {
+    "name": "Stone's Café",
+    "rating": "4.4",
+    "address": "\nWarmoesstraat 91, 1012 HZ Amsterdam",
+    "phone": "\n020 623 7874"
+  },
+  {
+    "name": "Café Mulder",
+    "rating": "4.2",
+    "address": "\nWeteringschans 163, 1017 XD Amsterdam",
+    "website": "http://www.cafemulder.eu/",
+    "phone": "\n020 623 7874"
+  },
+  {
+    "name": "Prix d'Ami.",
+    "rating": "4.4",
+    "address": "\nHaringpakkerssteeg 3, 1012 LR Amsterdam",
+    "website": "https://www.prixdami.nl/?utm_source=GMB&utm_medium=organic&utm_campaign=website"
+  },
+  {
+    "name": "Prix d'Ami.",
+    "rating": "4.4",
+    "address": "\nHaringpakkerssteeg 3, 1012 LR Amsterdam",
+    "website": "https://www.prixdami.nl/?utm_source=GMB&utm_medium=organic&utm_campaign=website"
+  },
+  {
+    "name": "Cafe Pleinzicht",
+    "rating": "4.5",
+    "address": "\nOudezijds Voorburgwal 75, 1012 EL Amsterdam",
+    "website": "https://m.facebook.com/pages/category/Pub/Cafe-Pleinzicht-The-red-light-district-613891285309212/?locale2=nl_NL"
+  },
+  {
+    "name": "Cafe Belgique",
+    "rating": "4.6",
+    "address": "\nGravenstraat 2, 1012 NM Amsterdam",
+    "website": "https://www.cafebelgique.nl/"
+  },
+  {
+    "name": "Cafe Belgique",
+    "rating": "4.6",
+    "address": "\nGravenstraat 2, 1012 NM Amsterdam",
+    "website": "https://www.cafebelgique.nl/"
+  },
+  {
+    "name": "Café Eijlders",
+    "rating": "4.5",
+    "address": "\nKorte Leidsedwarsstraat 47, 1017 PW Amsterdam",
+    "website": "http://www.cafeeijlders.com/",
+    "phone": "\n06 41377702"
+  },
+  {
+    "name": "Café Krom",
+    "rating": "4.2",
+    "address": "\nUtrechtsestraat 76, 1017 VR Amsterdam",
+    "website": "https://www.cafekrom.com/",
+    "phone": "\n020 624 5343"
+  },
+  {
+    "name": "Café Krom",
+    "rating": "4.2",
+    "address": "\nUtrechtsestraat 76, 1017 VR Amsterdam",
+    "website": "https://www.cafekrom.com/",
+    "phone": "\n020 624 5343"
+  },
+  {
+    "name": "Café Krom",
+    "rating": "4.2",
+    "address": "\nBloemstraat 42, 1015 TB Amsterdam"
+  },
+  {
+    "name": "Café Chris",
+    "rating": "4.7",
+    "address": "\nBloemstraat 42, 1015 TB Amsterdam"
+  },
+  {
+    "name": "Café Het Molenpad",
+    "rating": "4.3",
+    "address": "\nPrinsengracht 653, 1016 XD Amsterdam",
+    "website": "http://www.cafehetmolenpad.nl/",
+    "phone": "\n020 625 9680"
+  },
+  {
+    "name": "Cafe 't Molentje",
+    "rating": "4.1",
+    "address": "\nSingel 278, 1016 AC Amsterdam",
+    "website": "http://www.cafehetmolentjeamsterdam.nl/",
+    "phone": "\n020 363 5236"
+  },
+  {
+    "name": "Sponsored",
+    "rating": "4.2",
+    "address": "\nAmstel 194, 196, 1017 AG Amsterdam",
+    "website": "https://www.xtracold.com/",
+    "phone": "\n020 320 5700"
+  },
+  {
+    "name": "Sponsored",
+    "rating": "4.2",
+    "address": "\nAmstel 194, 196, 1017 AG Amsterdam",
+    "website": "https://www.xtracold.com/",
+    "phone": "\n020 320 5700"
+  },
+  {
+    "name": "Cafe \"De Doelen\"",
+    "rating": "4.0",
+    "address": "\nKloveniersburgwal 125, 1011 KC Amsterdam",
+    "website": "https://www.facebook.com/cafededoelen/?fref=ts",
+    "phone": "\n020 624 9023"
+  },
+  {
+    "name": "Café Zwart",
+    "rating": "3.6",
+    "address": "\nDam 15, 1012 JS Amsterdam",
+    "website": "https://www.amsterdam-dam.com/cafezwart/",
+    "phone": "\n020 888 8881"
+  },
+  {
+    "name": "Café Zwart",
+    "rating": "3.6",
+    "address": "\nDam 15, 1012 JS Amsterdam",
+    "website": "https://www.amsterdam-dam.com/cafezwart/",
+    "phone": "\n020 888 8881"
+  },
+  {
+    "name": "De Kroon Coffeeshop Amsterdam",
+    "rating": "4.6",
+    "address": "\nOudebrugsteeg 26, 1012 JP Amsterdam",
+    "website": "https://coffeeshopdekroon.com/",
+    "phone": "\n020 773 2532"
+  },
+  {
+    "name": "Café Katoen",
+    "rating": "4.3",
+    "address": "\nOude Turfmarkt 153, 1012 GC Amsterdam",
+    "website": "http://www.cafekatoen.nl/",
+    "phone": "\n020 626 2635"
+  },
+  {
+    "name": "Café 't Monumentje",
+    "rating": "4.5",
+    "address": "\nWesterstraat 120, 1015 MP Amsterdam",
+    "website": "https://www.greenplaceamsterdam.com/"
+  },
+  {
+    "name": "Green Place",
+    "rating": "4.3",
+    "address": "\nKloveniersburgwal 4, 1012 CT Amsterdam",
+    "website": "https://www.greenplaceamsterdam.com/"
+  },
+  {
+    "name": "Green Place",
+    "rating": "4.3",
+    "address": "\nKloveniersburgwal 4, 1012 CT Amsterdam",
+    "website": "https://www.greenplaceamsterdam.com/"
+  },
+  {
+    "name": "Green Place",
+    "rating": "4.3",
+    "address": "\nKloveniersburgwal 4, 1012 CT Amsterdam",
+    "website": "https://www.greenplaceamsterdam.com/"
+  },
+  {
+    "name": "Cafe Toussaint",
+    "rating": "4.2",
+    "address": "\nBosboom Toussaintstraat 26, 1054 AS Amsterdam",
+    "website": "http://www.cafe-toussaint.nl/",
+    "phone": "\n020 685 0737"
+  },
+  {
+    "name": "LOT61 Amsterdam Centraal Station",
+    "rating": "4.5",
+    "address": "\nOosterdoksstraat 4, 1011 DK Amsterdam",
+    "website": "https://lot61.com/lot61-amsterdam-centraal",
+    "phone": "\n06 11590211"
+  },
+  {
+    "name": "LOT61 Amsterdam Centraal Station",
+    "rating": "4.5",
+    "address": "\nOosterdoksstraat 4, 1011 DK Amsterdam",
+    "website": "https://lot61.com/lot61-amsterdam-centraal",
+    "phone": "\n06 11590211"
+  },
+  {
+    "name": "LOT61 Amsterdam Centraal Station",
+    "rating": "4.5",
+    "address": "\nOosterdoksstraat 4, 1011 DK Amsterdam",
+    "website": "https://lot61.com/lot61-amsterdam-centraal",
+    "phone": "\n06 11590211"
+  },
+  {
+    "name": "Café 't Spui-tje",
+    "rating": "4.3",
+    "address": "\nSpuistraat 318, 1012 VX Amsterdam",
+    "website": "http://www.cafehetspui-tje.nl/",
+    "phone": "\n020 626 7684"
+  },
+  {
+    "name": "Café 't Spui-tje",
+    "rating": "4.3",
+    "address": "\nSpuistraat 318, 1012 VX Amsterdam",
+    "website": "http://www.cafehetspui-tje.nl/",
+    "phone": "\n020 626 7684"
+  },
+  {
+    "name": "Coffee & Coconuts 'Zuidas'",
+    "rating": "4.2",
+    "address": "\nGustav Mahlerplein 40, 1082 MA Amsterdam",
+    "website": "http://www.coffeeandcoconuts.com/"
+  },
+  {
+    "name": "Café \"Van Wou\"",
+    "rating": "4.4",
+    "address": "\nVan Woustraat 25, 1074 AB Amsterdam",
+    "phone": "\n020 679 4371"
+  },
+  {
+    "name": "Café \"Van Wou\"",
+    "rating": "4.4",
+    "address": "\nVan Woustraat 25, 1074 AB Amsterdam",
+    "phone": "\n020 679 4371"
+  },
+  {
+    "name": "Sponsored",
+    "rating": "4.2",
+    "address": "\nNieuwe Doelenstraat 20-20, 1012 CP Amsterdam",
+    "website": "https://cafedejaren.nl/",
+    "phone": "\n020 625 5771"
+  },
+  {
+    "name": "Sponsored",
+    "rating": "4.2",
+    "address": "\nAmstel 194, 196, 1017 AG Amsterdam",
+    "website": "https://www.xtracold.com/",
+    "phone": "\n020 320 5700"
+  },
+  {
+    "name": "Sponsored",
+    "rating": "4.2",
+    "address": "\nAmstel 194, 196, 1017 AG Amsterdam",
+    "website": "https://www.xtracold.com/",
+    "phone": "\n020 320 5700"
+  },
+  {
+    "name": "Café Old Sailor",
+    "rating": "4.5",
+    "address": "\nOudezijds Achterburgwal 39-A, 1012 DA Amsterdam",
+    "website": "http://www.cafeoldsailor.eu/",
+    "phone": "\n020 773 7931"
+  },
+  {
+    "name": "Café Old Sailor",
+    "rating": "4.5",
+    "address": "\nOudezijds Achterburgwal 39-A, 1012 DA Amsterdam",
+    "website": "http://www.cafeoldsailor.eu/",
+    "phone": "\n020 773 7931"
+  },
+  {
+    "name": "Chimney Cake Café",
+    "rating": "4.4",
+    "address": "\nWarmoesstraat 46, 1012 JE Amsterdam",
+    "website": "https://chimneyamsterdam.nl/?utm_source=gmb&utm_medium=gmb",
+    "phone": "\n020 775 3914"
+  },
+  {
+    "name": "Chimney Cake Café",
+    "rating": "4.4",
+    "address": "\nWarmoesstraat 46, 1012 JE Amsterdam",
+    "website": "https://chimneyamsterdam.nl/?utm_source=gmb&utm_medium=gmb",
+    "phone": "\n020 775 3914"
+  },
+  {
+    "name": "Basjoe",
+    "rating": "4.2",
+    "address": "\nKloveniersburgwal 62, 1012 CX Amsterdam",
+    "website": "http://www.coffeeshopmenus.org/Basjoe/Menus/Basjoe.html",
+    "phone": "\n020 627 3858"
+  },
+  {
+    "name": "Cafe Aunt Rosie",
+    "rating": "4.3",
+    "address": "\nRembrandtplein 5, 1017 CT Amsterdam",
+    "website": "http://www.tanteroosje.nl/",
+    "phone": "\n020 820 8257"
+  },
+  {
+    "name": "Cafe Aunt Rosie",
+    "rating": "4.3",
+    "address": "\nRembrandtplein 5, 1017 CT Amsterdam",
+    "website": "http://www.tanteroosje.nl/",
+    "phone": "\n020 820 8257"
+  },
+  {
+    "name": "STARBUCKS",
+    "rating": "3.9",
+    "address": "\nDamrak 80-81, 1012 LN Amsterdam",
+    "website": "http://www.starbucks.nl/",
+    "phone": "\n020 622 3461"
+  },
+  {
+    "name": "STARBUCKS",
+    "rating": "3.9",
+    "address": "\nDamrak 80-81, 1012 LN Amsterdam",
+    "website": "http://www.starbucks.nl/",
+    "phone": "\n020 622 3461"
+  },
+  {
+    "name": "STARBUCKS",
+    "rating": "3.9",
+    "address": "\nDamrak 80-81, 1012 LN Amsterdam",
+    "website": "http://www.starbucks.nl/",
+    "phone": "\n020 622 3461"
+  },
+  {
+    "name": "Fa. Cafe-Bistro Hansel and Gretel",
+    "rating": "4.2",
+    "address": "\nSpiegelgracht 27, 1017 JP Amsterdam",
+    "website": "http://hansengrietjeamsterdam.nl/",
+    "phone": "\n020 624 6782"
+  },
+  {
+    "name": "Café \"De Blauwe Druif\"",
+    "rating": "4.3",
+    "address": "\nHaarlemmerstraat 91, 1013 EL Amsterdam",
+    "phone": "\n06 51686805"
+  },
+  {
+    "name": "Café \"De Blauwe Druif\"",
+    "rating": "4.3",
+    "address": "\nHaarlemmerstraat 91, 1013 EL Amsterdam",
+    "phone": "\n06 51686805"
+  },
+  {
+    "name": "Starbucks",
+    "rating": "3.6",
+    "address": "\nRokin 74, 1012 KW Amsterdam",
+    "website": "https://www.starbucks.nl/",
+    "phone": "\n020 217 0700"
+  },
+  {
+    "name": "Starbucks",
+    "rating": "3.6",
+    "address": "\nRokin 74, 1012 KW Amsterdam",
+    "website": "https://www.starbucks.nl/",
+    "phone": "\n020 217 0700"
+  },
+  {
+    "name": "Starbucks",
+    "rating": "3.6",
+    "address": "\nRokin 74, 1012 KW Amsterdam",
+    "website": "https://www.starbucks.nl/",
+    "phone": "\n020 217 0700"
+  }
+]
