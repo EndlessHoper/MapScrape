@@ -1,6 +1,7 @@
 # Google Maps Venue Scraper
 
 A simple Python script that scrapes venue names from Google Maps search results. Built with Playwright for web automation.
+Turns Maps query to .json
 
 ## Features
 - Search for any location/venue type on Google Maps
